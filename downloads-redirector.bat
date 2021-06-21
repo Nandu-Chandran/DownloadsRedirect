@@ -1,5 +1,6 @@
 :: Redirects files based on extensions
 :: Add multiple extentions per file type
+:: This script moves the files not copies them
 
 setlocal enableextensions enabledelayedexpansion
 
